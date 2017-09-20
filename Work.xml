@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Work>
+<Department>
+<Worker Name="Igor" Age="11" Position="Analitic" Gender="M">
+<Comment>BadWorker</Comment>
+</Worker>
+
+<Worker Name="Not Igor" Age="14" Position="Not Analitic" Gender="Not M">
+<Comment>GoodWorker</Comment>
+</Worker>
+</Department>
+</Work>
